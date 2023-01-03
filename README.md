@@ -1,4 +1,7 @@
-### Hi there 👋
+
+# 💫 About Me:
+👨‍💻 Frontend Software Engineer<br>
+
 
 <!--
 **cargarn/cargarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
